@@ -27,7 +27,7 @@ Whether you're learning to code, improve your design skills, or dive into new te
 
 If you're just starting out, we recommend checking out these beginner-friendly tutorials:
 
-- **[HTML & CSS Basics](./tutorials/html-css-basics.md)**: Learn how to build your first webpage with HTML and style it with CSS.
+- **[HTML & CSS Basics](html-css-basics.md)**: Learn how to build your first webpage with HTML and style it with CSS.
 - **[Introduction to GitHub](GitHub.md)**: Get started with GitHub,  is a cloud-based hosting service that lets you manage Git repositories. It is especially popular among developers for both open-source and private software projects.
 
 ---
@@ -36,7 +36,7 @@ If you're just starting out, we recommend checking out these beginner-friendly t
 
 Ready to take your skills to the next level? Explore these advanced tutorials:
 
-- **[Advanced Python Programming](./tutorials/advanced-python.md)**: Dive into Python’s advanced features and libraries to build more powerful programs.
+- **[Advanced Python Programming](advanced-python-programming.md)**: Dive into Python’s advanced features and libraries to build more powerful programs.
 - **[UI/UX Design Principles](ui-ux-design.md)**: Master the art of designing intuitive user interfaces and crafting seamless user experiences.
 
 ---
