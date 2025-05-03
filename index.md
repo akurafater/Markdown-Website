@@ -28,7 +28,7 @@ Whether you're learning to code, improve your design skills, or dive into new te
 If you're just starting out, we recommend checking out these beginner-friendly tutorials:
 
 - **[HTML & CSS Basics](./tutorials/html-css-basics.md)**: Learn how to build your first webpage with HTML and style it with CSS.
-- **[Introduction to GitHub](./tutorials/intro-javascript.md)**: Get started with GitHub,  is a cloud-based hosting service that lets you manage Git repositories. It is especially popular among developers for both open-source and private software projects.
+- **[Introduction to GitHub](GitHub.md)**: Get started with GitHub,  is a cloud-based hosting service that lets you manage Git repositories. It is especially popular among developers for both open-source and private software projects.
 
 ---
 
