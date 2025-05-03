@@ -38,7 +38,7 @@ Here are some of the main advantages of using GitHub:
 To start using GitHub:
 
 1. **Create an account** at [github.com](https://github.com)
-2. **Install Git** on your machine.
+2. **Install Git** on your machinee.
 3. **Create or clone** a repository.
 4. **Commit**, **push**, and **pull** code with Git or GitHub Desktop.
 5. Use **branches** and **pull requests** to manage and review features.
