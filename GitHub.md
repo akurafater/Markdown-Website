@@ -1,3 +1,5 @@
+- **[Back](index.md)**
+
 # GitHub
 
 **GitHub** is a widely-used, proprietary developer platform that enables developers to create, manage, and share code collaboratively. It is built on top of **Git**, a distributed version control system created by Linus Torvalds. GitHub enhances Git's capabilities by providing a web-based interface, access control, issue tracking, feature request management, continuous integration, project documentation (via wikis), and more. Since 2018, GitHub has been a subsidiary of **Microsoft**, headquartered in California.
