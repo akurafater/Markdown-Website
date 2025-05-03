@@ -1,122 +1,63 @@
-# GitHub
+# Welcome to My Tutorial Website
 
-**GitHub** is a widely-used, proprietary developer platform that enables developers to create, manage, and share code collaboratively. It is built on top of **Git**, a distributed version control system created by Linus Torvalds. GitHub enhances Git's capabilities by providing a web-based interface, access control, issue tracking, feature request management, continuous integration, project documentation (via wikis), and more. Since 2018, GitHub has been a subsidiary of **Microsoft**, headquartered in California.
-
----
-
-## What is GitHub Used For?
-
-GitHub is a cloud-based hosting service that lets you manage **Git repositories**. It is especially popular among developers for both open-source and private software projects.
-
-### Key Uses:
-- **Version Control:** Keep track of changes in code across different versions.
-- **Collaboration:** Work with multiple developers on the same project efficiently.
-- **Open Source Sharing:** Share your repositories with the world or contribute to others.
-- **Project Management:** Use tools like issues, milestones, and projects to manage tasks and track progress.
-- **Documentation:** Use README files and wikis to document your project clearly.
-- **CI/CD Integration:** Automate workflows like testing and deployment with GitHub Actions.
+Welcome to **My Tutorial Website**, your go-to place for learning new skills and enhancing your knowledge! Whether you're a beginner or an expert, we have tutorials and guides to help you master a wide range of topics, from coding to design and beyond.
 
 ---
 
-## Key Benefits of GitHub
+## Table of Contents
 
-Here are some of the main advantages of using GitHub:
-
-- **User-Friendly Interface:** Clean graphical UI that simplifies Git operations.
-- **Team Collaboration:** Coordinate, review code, and manage contributions easily.
-- **Change Management:** Track changes efficiently with version history.
-- **Learning and Inspiration:** Explore public repositories to learn or get inspired.
-- **Contribute to Projects:** Fork and contribute to existing repositories.
-- **Integration Ecosystem:** Works with tools like Slack, Trello, VS Code, Jenkins, etc.
+- [Introduction](#introduction)
+- [Beginner Tutorials](#beginner-tutorials)
+- [Advanced Tutorials](#advanced-tutorials)
+- [Documentation](#documentation)
+- [Get Started](#get-started)
+- [Contact Us](#contact-us)
 
 ---
 
-## Getting Started with GitHub
+## Introduction
 
-To start using GitHub:
+At **My Tutorial Website**, we believe learning should be fun, engaging, and straightforward. Our tutorials are designed to guide you step-by-step, providing easy-to-follow instructions and examples that help you succeed.
 
-1. **Create an account** at [github.com](https://github.com)
-2. **Install Git** on your machine.
-3. **Create or clone** a repository.
-4. **Commit**, **push**, and **pull** code with Git or GitHub Desktop.
-5. Use **branches** and **pull requests** to manage and review features.
+Whether you're learning to code, improve your design skills, or dive into new technologies, our tutorials will help you grow.
 
 ---
 
-## GitHub Workflow
+## Beginner Tutorials
 
-The typical GitHub workflow includes:
+If you're just starting out, we recommend checking out these beginner-friendly tutorials:
 
-- Creating a repository  
-- Creating a branch  
-- Committing changes  
-- Making a pull request  
-- Reviewing changes  
-- Deploying changes  
-- Merging to the main branch
+- **[HTML & CSS Basics](./tutorials/html-css-basics.md)**: Learn how to build your first webpage with HTML and style it with CSS.
+- **[Introduction to GitHub](./tutorials/intro-javascript.md)**: Get started with GitHub,  is a cloud-based hosting service that lets you manage Git repositories. It is especially popular among developers for both open-source and private software projects.
 
 ---
 
-## Creating a Repository
+## Advanced Tutorials
 
-A **repository** is where your project’s files, folders, and metadata are stored. You can include:
+Ready to take your skills to the next level? Explore these advanced tutorials:
 
-- `README` file – Describes your project. Formats:
-  - `README`
-  - `README.md`
-  - `README.asciidoc`
-
-- `.gitignore` file – Lists untracked files Git should ignore (e.g., logs, cache, secrets).
-
-- `LICENSE` file – Specifies the usage rights and restrictions of your code.
+- **[Advanced Python Programming](./tutorials/advanced-python.md)**: Dive into Python’s advanced features and libraries to build more powerful programs.
+- **[UI/UX Design Principles](ui-ux-design.md)**: Master the art of designing intuitive user interfaces and crafting seamless user experiences.
 
 ---
 
-## Creating a Branch
+## Documentation
 
-- A **branch** allows you to work on features or fixes separately.
-- The default branch is usually `main` or `master`.
-- Changes in a branch do **not** affect the main branch until merged.
-- Branching lets you safely test and build features.
+For more in-depth guides and references, check out our [**Documentation**](./docs/documentation.md). It includes detailed information on the tools, resources, and techniques used in our tutorials.
 
 ---
 
-## Committing Changes
+## Get Started
 
-- A **commit** saves a snapshot of your changes.
-- Each commit has a message describing the change.
-- Commits help track history and easily fix bugs by reverting changes.
+Start your learning journey today by following the [**Getting Started Guide**](./docs/getting_started.md). This guide will help you set up the tools and resources you'll need for our tutorials.
 
 ---
 
-## Adding Collaborators
+## Contact Us
 
-- You can **add collaborators** to work on your project.
-- Collaborators have read/write access.
-- You must send an invitation; once accepted, they can contribute.
-- Permissions can be modified or revoked anytime.
+Have questions or need support? Don’t hesitate to reach out to us at [email@example.com](mailto:email@example.com). We’re here to help!
 
 ---
 
-## Forking a Repository
+Thank you for visiting **My Tutorial Website**! We hope you enjoy our tutorials and that they help you achieve your learning goals. Happy learning!
 
-**Forking** means creating your own copy of someone else's repository.
-
-Common use cases:
-- Use someone’s project as a base for your own.
-- Suggest changes to another repository.
-
-After forking:
-- You get a copy under your account.
-- You can edit it without affecting the original repository.
-
----
-
-## Working with Remote Repositories
-
-A **remote repository** is hosted on a server (like GitHub) and accessed over the internet.
-
-### Key Commands:
-- Clone a remote repository:
-  ```bash
-  git clone <repository_url>
