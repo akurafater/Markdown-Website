@@ -9,8 +9,6 @@ Welcome to **My Tutorial Website**, your go-to place for learning new skills and
 - [Introduction](#introduction)
 - [Beginner Tutorials](#beginner-tutorials)
 - [Advanced Tutorials](#advanced-tutorials)
-- [Documentation](#documentation)
-- [Get Started](#get-started)
 - [Contact Us](#contact-us)
 
 ---
@@ -38,18 +36,6 @@ Ready to take your skills to the next level? Explore these advanced tutorials:
 
 - **[Advanced Python Programming](advanced-python-programming.md)**: Dive into Python’s advanced features and libraries to build more powerful programs.
 - **[UI/UX Design Principles](ui-ux-design.md)**: Master the art of designing intuitive user interfaces and crafting seamless user experiences.
-
----
-
-## Documentation
-
-For more in-depth guides and references, check out our [**Documentation**](./docs/documentation.md). It includes detailed information on the tools, resources, and techniques used in our tutorials.
-
----
-
-## Get Started
-
-Start your learning journey today by following the [**Getting Started Guide**](./docs/getting_started.md). This guide will help you set up the tools and resources you'll need for our tutorials.
 
 ---
 
